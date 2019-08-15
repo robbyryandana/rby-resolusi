@@ -1,0 +1,2 @@
+Rby resolusi
+- Membuat Web Dasar Data Barang
